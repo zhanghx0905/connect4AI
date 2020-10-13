@@ -18,9 +18,3 @@ Windows SDK 10.0.18362.0
   - `uctNode.hpp`: 内存池类，UCT节点类；
   - `board.h`, `board.cpp`: 棋盘类；
   - `config.h`: 全局宏定义；
-
----
-
-测试输了两局，得分97.2/100.
-
-同学从别的角度进行优化，达到了更好的性能 [友链](https://github.com/yueyang2000/Assignments-of-Intro-to-AI).
